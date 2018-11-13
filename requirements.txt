@@ -1,0 +1,12 @@
+scrapy
+nltk
+scikit-learn
+jupyter
+numpy
+scipy
+Flask
+uwsgi
+fuzzywuzzy
+python-levenshtein
+pandas
+numpy
